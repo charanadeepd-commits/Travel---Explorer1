@@ -128,7 +128,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#fff',
     marginHorizontal: 20,
-    marginVertical: 10,
+    mav  r rGginVertical: 10,
     paddingHorizontal: 14,
     height: 46,
     borderRadius: 12,
